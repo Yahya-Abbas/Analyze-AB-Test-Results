@@ -13,7 +13,7 @@ For this project, we will be working to understand the results of an A/B test ru
 
 ## Requirements
 
--   [Pandas](https://pandas.pydata.org/) `version 0.25.0 or higher`
+-   [Pandas](https://pandas.pydata.org/)
 -   [NumPy](https://numpy.org/)
 -   [Matplotlib](https://matplotlib.org/)
 -   [Random](https://docs.python.org/3/library/random.html)
